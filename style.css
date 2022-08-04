@@ -1,0 +1,65 @@
+body{
+    background-color: gray;
+}
+#main{
+   
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 0%;   
+}
+
+#main button:hover{
+    background-color: lightblue;
+}
+#txtbox1{
+    margin-top: 0%;
+    padding: 30px;
+    background-color: aqua;
+    color: white;
+}
+#txtbox2{
+    padding: 30px;
+    margin-top: 0%;
+    background-color: orange;
+    color:white;
+}
+#txtbox3{
+    margin-top: 0%;
+    padding: 30px;
+    background-color: greenyellow;
+    color: white;
+}
+h1{
+    font-size: 2.8rem;
+}
+p{
+    font-size:1.8rem;
+}
+#btn-2 :active{
+    background-color: aqua;
+}
+.btn{
+    background-color: darkblue;
+    padding: 25px;
+    font-size: 2.5rem;
+}
+.active{
+    border-collapse: collapse;
+    border-bottom: 0px;
+}
+.aqua{
+    background-color: aqua;
+    padding: 25px;
+    font-size: 2.5rem;
+}
+.orange{
+    padding: 25px;
+    font-size: 2.5rem;
+    background-color: orange;
+}
+.greenyellow{
+    padding: 25px;
+    font-size: 2.5rem;
+    background-color: greenyellow;
+}
